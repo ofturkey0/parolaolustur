@@ -8,6 +8,14 @@ body{
   fon-family: "Mulish",sans-serif;
   
 }
+.buyazıyıyazan{
+  font-size: 24px;
+  text-align: center;
+  fon-family: "Mulish",sans-serif;
+
+}
+
+
 .wrap{
   width: 360px;
   nargin-top: 100px;
